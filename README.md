@@ -22,4 +22,3 @@ $ java -jar CellAnnotationsExporter.jar -inPath "/path/to/annotated/files" -outP
 **Dependencies**: 
 * Java 8
 * Apache POI v3.17
-* XMLBeans v2.6.0
