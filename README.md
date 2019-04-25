@@ -16,7 +16,7 @@ $ java -jar CellAnnotationsExporter.jar -inPath "/path/to/annotated/files" -outP
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; each cell in the merged area will be exported individually. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This option is not available for RangeExportAnnotations.jar
 
-**For more details** on the implementation of these scripts, refer to the CellAnnotationExporter.java and RangeAnnotationExporter.java in ./src/de/tudresden/xr/main. As well as check the the ./src/de/tudresden/xr/utils/WorkbookUtils.java
+**For more details** on the implementation of these executables, refer to the CellAnnotationExporter.java and RangeAnnotationExporter.java in ./src/de/tudresden/xr/main. As well as check the the ./src/de/tudresden/xr/utils/WorkbookUtils.java
 
 
 **Dependencies**: 
